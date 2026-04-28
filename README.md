@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي نور قلبي من هواك
+> في الليالي روحي بتسأل وراك
+> كل همسة من شفايفك لي حياة
+> مش بتبقى كده لو روحي معاك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
