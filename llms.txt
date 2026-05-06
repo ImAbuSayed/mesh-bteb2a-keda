@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 28, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/mesh-bteb2a-keda/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Obtain a Music License for Mesh Bteb2a Keda](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Secure Licensing Rights for Mesh Bteb2a Keda](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
